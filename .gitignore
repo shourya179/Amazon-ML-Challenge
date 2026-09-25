@@ -1,0 +1,6 @@
+cleaned_data/
+student_resource/
+__MACOSX/
+__pycache__/
+*.pyc
+.DS_Store
